@@ -23,5 +23,13 @@
 hs_err_pid*
 
 
-#ignore build
-build/
+#ignore stuff
+app/
+.git/
+gradle/
+build.gradle
+.gitignore
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
