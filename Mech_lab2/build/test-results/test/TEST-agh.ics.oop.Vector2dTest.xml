@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.Vector2dTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-10-18T19:23:45" hostname="LAPTOP-02ED3P7S" time="0.044">
+  <properties/>
+  <testcase name="oppositeMinOneOne()" classname="agh.ics.oop.Vector2dTest" time="0.018"/>
+  <testcase name="testMinOneMinFiveMinusFiveMinOne()" classname="agh.ics.oop.Vector2dTest" time="0.0"/>
+  <testcase name="testFollows()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testTwoTwoPlusOneOne()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testToString()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testLowerLeftNew()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="oppositeZero()" classname="agh.ics.oop.Vector2dTest" time="0.0"/>
+  <testcase name="testPrecedes()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testEqualsZeroZero()" classname="agh.ics.oop.Vector2dTest" time="0.0"/>
+  <testcase name="testPrecedesSelf()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testPrecedesNot()" classname="agh.ics.oop.Vector2dTest" time="0.002"/>
+  <testcase name="testFiveMinOnePlusMinOneMinFive()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testUpperRightNew()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testFiveMinOneMinusMinOneMinFive()" classname="agh.ics.oop.Vector2dTest" time="0.0"/>
+  <testcase name="testFollowsSelf()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testUpperRightSelf()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="oppositeTwoTwo()" classname="agh.ics.oop.Vector2dTest" time="0.0"/>
+  <testcase name="testFollowsNot()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <testcase name="testLowerLeftSelf()" classname="agh.ics.oop.Vector2dTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
