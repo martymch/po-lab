@@ -24,12 +24,5 @@ hs_err_pid*
 
 
 #ignore stuff
-app/
-.git/
-gradle/
-build.gradle
-.gitignore
-gradle.properties
-gradlew
-gradlew.bat
-settings.gradle
+build/
+

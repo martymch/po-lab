@@ -1,33 +1,31 @@
 package agh.ics.oop;
 
-
-import java.util.Arrays;
 import java.util.Scanner;
-import java.lang.*;
 
 public class World {
 
     public static void run(Directions[] directions) {
 
-        // przecinki wersja jeden
-//        for(i=0; i<directions.length-1; i++){
-//            System.out.println("zwierzak idzie w " + directions[i]);
-//        }
-//        System.out.println(directions[directions.length -1]);
-
-//        String joinedDirection = String.join(", ", directions);
-//        System.out.print(joinedDirection);
-
 
         for(Directions direction: directions){
-            String text =  switch(direction){
-                case FORWARD-> "Zwierzak idzie do przodu";
-                case BACKWARD->"Zwierzak idzie do tyłu";
-                case LEFT->"Zwierzak idzie w lewo";
-                case RIGHT->"Zwierzak idzie w prawo";
-                default -> "";
-                };
-            System.out.println(text);
+            
+            switch (direction) {
+                case FORWARD:
+                    System.out.println("Zwierzak idzie do przodu");
+                    break;
+                case BACKWARD:
+                    System.out.println("Zwierzak idzie do tyłu");
+                    break;
+                case LEFT:
+                    System.out.println("Zwierzak idzie w lewo");
+                    break;
+                case RIGHT:
+                    System.out.println("Zwierzak idzie w prawo");
+                    break;
+                default:
+                    System.out.println("Nieznana komenda");
+                    break;
+              }
             };
         System.out.println();
         }
