@@ -25,4 +25,14 @@ hs_err_pid*
 
 #ignore stuff
 build/
+gradlew
+gradlew.bat
+.gradle/
+gradle/
+bin/
+.idea/
+.gradle/
+
+!setting.gradle
+
 
